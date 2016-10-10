@@ -1,0 +1,2 @@
+var height = parseFloat(prompt('请输入身高(m):'));
+var weight = parseFloat(prompt('请输入体重(kg):'));
